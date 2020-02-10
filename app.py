@@ -2,7 +2,7 @@ import time
 import paho.mqtt.client as mqtt
 from flow import Flow 
 
-# Developer: Roshan Lamichhane
+# Developer: Dan Makes
 
 Host = 'localhost'
 PORT = 1883

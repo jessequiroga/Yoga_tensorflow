@@ -17,7 +17,7 @@ You'll need have the following installed:
 * one way mirror + framing materials
 
 # Install
-` 1. git clone https://www.github.com/roshancode/YogaAI `
+` 1. git clone https://www.github.com/Dancode/YogaAI `
 ` 2. cd YogaAI `
 ` 3. ./install.sh `
 

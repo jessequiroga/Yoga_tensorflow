@@ -4,7 +4,7 @@ import cv2
 import subprocess
 from utils.inference import motionClassifier
 
-# Developer: Roshan Lamichhane
+# Developer: Dan Makes
 
 class Flow():
     def __init__(self, flow):
